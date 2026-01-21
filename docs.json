@@ -16,7 +16,7 @@
           {
             "group": "Aroma",
             "pages": [
-              "Home",
+              "Home.mdx",
               "Products",
               "Destination",
               "FAQ",
