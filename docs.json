@@ -14,11 +14,16 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Aroma",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "Home",
+              "Products",
+              "Destianation",
+              "FAQ",
+              "Travel Blog",
+              "Contact",
+              "Trade",
+              "Wedding"
             ]
           },
           {
